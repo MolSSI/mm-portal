@@ -7,4 +7,4 @@ showInMenu: false
 # no need for the "summary" parameter as it is not displayed in any previews
 ---
 
-Coming soon ...
+To be completed.
