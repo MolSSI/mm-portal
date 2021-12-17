@@ -4,7 +4,6 @@ draft: true
 hideLastModified: true
 showInMenu: false
 summaryImage: "images/icon.png"
-developer: Samuel Ellis, Andrew Abi-Mansour
 summary: "Parsing and validating schemas with pydantic"
 ---
 

@@ -4,7 +4,6 @@ draft: true
 hideLastModified: true
 showInMenu: false
 summaryImage: "images/icon.png"
-developer: Andrew Abi-Mansour
 summary: "Creating your 1st component"
 ---
 
