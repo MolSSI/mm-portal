@@ -33,7 +33,6 @@
       "link":"https://github.com/MolSSI/mmic_ffpa_gmx",
       "image":"static/components/icons/gromacs.png",
       "tags":[
-         "gromacs",
          "forcefields",
          "assigners",
          "tactic"
@@ -76,7 +75,6 @@
       "tags":[
          "simulators",
          "tactic",
-         "gromacs"
       ],
       "summary":"Performs energy minimization with Gromacs.",
       "developer":"Xu Guo"
@@ -134,5 +132,17 @@
       ],
       "summary":"Provides converters between MMSchema and OpenMM.",
       "developer":"MolSSI"
+   },
+   "mmic_openff":{
+      "link":"https://github.com/MolSSI/mmic_openff",
+      "image":"static/components/icons/openff-toolkit.png",
+      "tags":[
+         "translators",
+         "tactic",
+         "mmschema",
+         "forcefields"
+      ],
+      "summary":"Provides converters between MMSchema and the Open Force Field toolkit.",
+      "developer":"Open Force Field Consortium"
    }
 }
