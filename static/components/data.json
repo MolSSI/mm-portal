@@ -8,6 +8,16 @@
       "summary":"Provides utilities for command-line execution.",
       "developer":"MolSSI"
    },
+   "mmic_pdb":{
+      "image":"https://images.squarespace-cdn.com/content/v1/52f2cd27e4b00e69a8f53575/1399666528476-95T1BQSVUWR7CCNPUYNL/src-bosutinib.png",
+      "link":"https://github.com/MolSSI/mmic_pdb",
+      "tags":[
+         "util",
+         "mmschema"
+      ],
+      "summary":"Uses PDBFixer to extract, fix, and/or convert PDB files to MMSchema molecules.",
+      "developer":"MolSSI"
+   },
    "mmic_ffpa":{
       "image":"https://www.pnas.org/content/106/37/15667/F1.large.jpg",
       "link":"https://github.com/MolSSI/mmic_ffpa",
@@ -89,7 +99,7 @@
          "tactic",
          "mmschema"
       ],
-      "summary":"Provides converters between MMSchema and MDAnalysis..",
+      "summary":"Provides converters between MMSchema and MDAnalysis.",
       "developer":"MolSSI"
    },
    "mmic_parmed":{
@@ -112,6 +122,17 @@
          "mmschema"
       ],
       "summary":"Provides converters between MMSchema and QCSchema.",
+      "developer":"MolSSI"
+   },
+   "mmic_openmm":{
+      "link":"https://github.com/MolSSI/mmic_openmm",
+      "image":"https://images.squarespace-cdn.com/content/v1/52f2cd27e4b00e69a8f53575/1444427024331-T9U4QLON1LXM5RYIGDVX/OPENMMLogo.png",
+      "tags":[
+         "translators",
+         "tactic",
+         "mmschema"
+      ],
+      "summary":"Provides converters between MMSchema and OpenMM.",
       "developer":"MolSSI"
    }
 }
